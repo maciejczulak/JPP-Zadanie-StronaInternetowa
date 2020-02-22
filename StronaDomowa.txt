@@ -1,3 +1,5 @@
 Adres, Opole, 45-123, ul. Krakowska 222a
 
-Lista z wyborem kursu.
+Rotor z wyborem kursu.
+
+Strona Domowa Boba.
